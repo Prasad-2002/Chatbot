@@ -13,7 +13,7 @@ The ChatGPT model has been set up.
 
 The api_key variable is used to store the OpenAI API key, which is read from a file.
 
-To run the code generate your own api from openAI key and remane the text file to(hidden_text).
+To run the code generate your own api from openAI key and rename the text file to(hidden_text).
 
 To save generated responses for later use, a response cache is established.
 
